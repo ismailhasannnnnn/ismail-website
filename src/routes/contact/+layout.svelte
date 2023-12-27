@@ -1,0 +1,9 @@
+<script lang="ts">
+
+    import {initializeStores, Modal} from "@skeletonlabs/skeleton";
+
+    initializeStores()
+</script>
+
+<Modal/>
+
